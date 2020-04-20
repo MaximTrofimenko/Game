@@ -1,0 +1,110 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+Bomber
+  rotate: false
+  xy: 644, 2
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+Tiger
+  rotate: false
+  xy: 1286, 2
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+powerUpsNew
+  rotate: false
+  xy: 1528, 2
+  size: 60, 240
+  orig: 60, 240
+  offset: 0, 0
+  index: -1
+powerUps
+  rotate: false
+  xy: 1590, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 2, 324
+  size: 400, 120
+  orig: 400, 120
+  offset: 0, 0
+  index: -1
+wanim
+  rotate: false
+  xy: 644, 324
+  size: 360, 120
+  orig: 360, 120
+  offset: 0, 0
+  index: -1
+Grass
+  rotate: false
+  xy: 404, 324
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 2, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guiIconExp
+  rotate: false
+  xy: 64, 446
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+guiBarHp
+  rotate: false
+  xy: 114, 446
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+guiBarExp
+  rotate: false
+  xy: 644, 446
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+guiIconHp
+  rotate: false
+  xy: 316, 446
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+smButton
+  rotate: false
+  xy: 486, 324
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+monsterHp
+  rotate: false
+  xy: 114, 496
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
